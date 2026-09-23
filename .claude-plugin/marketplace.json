@@ -1,0 +1,14 @@
+{
+  "name": "bidrock",
+  "owner": {
+    "name": "UAB Bidrock",
+    "email": "hello@bidrock.io"
+  },
+  "plugins": [
+    {
+      "name": "bidrock",
+      "source": "./",
+      "description": "Search procurement and collaborate in your authorized Bidrock workspace."
+    }
+  ]
+}

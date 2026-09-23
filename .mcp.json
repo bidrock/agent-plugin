@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bidrock": {
+      "type": "http",
+      "url": "https://mcp.bidrock.io/mcp"
+    }
+  }
+}

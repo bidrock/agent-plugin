@@ -1,0 +1,9 @@
+{
+  "name": "bidrock",
+  "version": "0.1.0",
+  "description": "Search procurement, consult Bidrock assistants and manage your workspace tasks.",
+  "author": {
+    "name": "UAB Bidrock"
+  },
+  "homepage": "https://platform.bidrock.io"
+}

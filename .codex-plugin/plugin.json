@@ -1,0 +1,29 @@
+{
+  "name": "bidrock",
+  "version": "0.1.0",
+  "description": "Search procurement, consult Bidrock assistants and manage your workspace tasks.",
+  "author": {
+    "name": "UAB Bidrock",
+    "email": "hello@bidrock.io"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Bidrock",
+    "shortDescription": "Procurement and workspace collaboration.",
+    "longDescription": "Connect your Bidrock workspace to search tenders, awards and plans, ask procurement assistants, save searches and collaborate on tasks.",
+    "developerName": "UAB Bidrock",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": "Find relevant tenders in my Bidrock workspace and help me evaluate the best matches.",
+    "websiteURL": "https://bidrock.io",
+    "privacyPolicyURL": "https://bidrock.io/legal/privacy-policy",
+    "termsOfServiceURL": "https://bidrock.io/legal/terms-conditions",
+    "brandColor": "#163f3d",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png"
+  },
+  "mcpServers": "./.mcp.json"
+}
