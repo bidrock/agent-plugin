@@ -2,7 +2,7 @@
 
 Šis paketas suteikia agentui jūsų patvirtintą prieigą prie Bidrock per OAuth ir MCP. Jame nėra API rakto ar vietinio duomenų tarpinio serverio.
 
-`https://mcp.bidrock.io/mcp` yra numatytas leidimo adresas; jo buvimas pakete nereiškia, kad paslauga jau įdiegta ar paskelbta kataloguose. Bandomojo laikotarpio metu naudokite adresą, rodomą Bidrock → Paskyros nustatymai → Sauga → Prijungti agentai. Darbo erdvei ši galimybė turi būti įjungta.
+Paslauga veikia adresu `https://mcp.bidrock.io/mcp`. Kol baigiami klientų suderinamumo patikrinimai ir leidėjo patvirtinimas, prieiga suteikta tik paskirtoms testavimo darbo erdvėms. Papildinys **dar nepaskelbtas** „OpenAI“ ar „Anthropic“ kataloguose. Dėl klientų prijungimo kreipkitės į „Bidrock“ pagalbą; prieš jungiantis darbo erdvei turi būti įjungta prieiga.
 
 1. Agento MCP ar jungčių nustatymuose pridėkite Bidrock adresą arba įdiekite papildinį, kai jis bus paskelbtas kataloge.
 2. Pasirinkite prijungimą ir prisijunkite prie esamos Bidrock paskyros.

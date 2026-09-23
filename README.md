@@ -2,7 +2,7 @@
 
 This package connects a customer's agent to Bidrock using delegated OAuth and a hosted MCP service. It does not contain an API key or run a local data proxy.
 
-The checked-in production endpoint is `https://mcp.bidrock.io/mcp`. **This is a release target, not proof of a deployed or publicly listed service.** During pilot onboarding use the exact MCP URL shown in Bidrock → Account → Security → Connected agents. Access must first be enabled for the workspace.
+The hosted service is live at `https://mcp.bidrock.io/mcp` for the controlled pilot. Access is currently limited to designated QA workspaces while client acceptance and publisher verification are completed. It is **not yet publicly listed** in the OpenAI or Anthropic directories. Contact Bidrock support for customer onboarding; workspace access must be enabled before connecting.
 
 ## Connect
 
